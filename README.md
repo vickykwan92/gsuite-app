@@ -10,4 +10,4 @@ This is a repo for developing a GSuite app that will fetch Google Sheets, listen
 
 * tip: use stackdriver logs to monitor the debugging behavior of CF. More efficient than direct testing.
 
-* tip: use this to get token (not in prod): https://developers.google.com/oauthplayground/?code=4/rgEGEtkMIEwEb-aT-avPBg6BvmFG-x62F1_i0dHNOoqJoS3eNMfD4i7kA-cP_5reYgv7u8qp7n9sDBHtdmfu120&scope=https://www.googleapis.com/auth/drive.file
+* tip: use this to get token (not in prod) for testing: https://developers.google.com/oauthplayground/?code=4/rgEGEtkMIEwEb-aT-avPBg6BvmFG-x62F1_i0dHNOoqJoS3eNMfD4i7kA-cP_5reYgv7u8qp7n9sDBHtdmfu120&scope=https://www.googleapis.com/auth/drive.file
