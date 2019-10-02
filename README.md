@@ -1,0 +1,1 @@
+This is a repo for developing a GSuite app that will fetch Google Sheets, listen to change logs on these sheets, and eventual destination being the snowflake database, and Looker connection based on Snowflake.
